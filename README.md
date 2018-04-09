@@ -1,6 +1,6 @@
 # Implementing-3-layer-Neural-Network
-1) Differential diagnosis of erythemato-squamous diseases. (for classes psoriasis, seboreic dermatitis, lichen planus)
-2) Pen-Based Recognition of Handwritten Digits(for any four classes currently 0, 1, 2, 3 considered).
+1) Differential diagnosis of erythemato-squamous diseases. (for any 3 classes, currently psoriasis, seboreic dermatitis, lichen planus)
+2) Pen-Based Recognition of Handwritten Digits(for any 4 classes, currently 0, 1, 2, 3 considered).
 
 # Dataset
 1) For DERMATOLOGY:
